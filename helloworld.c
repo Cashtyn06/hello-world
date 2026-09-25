@@ -1,6 +1,6 @@
 #include <stdio.h>
 //This is a comment
 int main(){
-  printf("Hello, World!\n");
+  printf("Git is cool!\n");
   return 0;
 }
